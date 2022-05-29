@@ -7,6 +7,10 @@ https://shadowcrypt.net/
 If you liked this repo or find it useful, please give it a star. Thanks!
 
 ## Tools
+ -[DNS ADS BLOCK AND OTHER DNS THINGS]
+ https://nextdns.io/
+ 
+ 
 - [Image Compressor](#image-compressor)
 - [Unminify HTML, CSS and JS](#unminify-html-css-and-js)
 - [Javascript Minifer](#javascript-minifer)
